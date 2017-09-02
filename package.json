@@ -12,7 +12,7 @@
   },
   "keywords": ["no-op", "noop", "metalsmith", "plugin"],
   "author": "Nolan Rigo <nolan.rigo@gmail.com>",
-  "license": "MIT",
+  "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/nolanrigo/metalsmith-noop/issues"
   },
